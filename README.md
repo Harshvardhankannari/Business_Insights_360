@@ -1,5 +1,3 @@
-# Business_Insights_360
-
 # 📊 Business Insights 360 – Power BI Project
 
 ## 🔍 Project Overview
@@ -8,9 +6,9 @@ The dashboard provides **department-wise insights** across Finance, Sales, Marke
 
 ---
 
-[![BI 360 Project](https://img.shields.io/badge/Power%20BI-BI%20360%20Project-yellow?style=for-the-badge&logo=powerbi)]((https://app.powerbi.com/groups/me/reports/bddf7038-fe79-4086-a638-53269b1b2199/00baa3c19cc3d7283228?experience=power-bi))
+🔗 **Live Project:** [BI 360 Project](https://app.powerbi.com/groups/me/reports/bddf7038-fe79-4086-a638-53269b1b2199/00baa3c19cc3d7283228?experience=power-bi)
 
----
+
 
 ## 📘 Key Learnings
 
